@@ -1,0 +1,15 @@
+-- EXPLICACIÓN
+
+https://www.youtube.com/live/fSuiCNtRvX0
+
+-- REPOSITORIO EJEMPLO
+
+https://github.com/hulkike/ejemplo-json-server
+
+-- JSON-SERVER
+
+https://www.npmjs.com/package/json-server
+
+-- JSON-SERVER-AUTH
+
+https://www.npmjs.com/package/json-server-auth

@@ -1,0 +1,88 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "category 1"
+    },
+    {
+      "id": "2",
+      "name": "category 2"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "product 1",
+      "price": 100,
+      "category": "1"
+    },
+    {
+      "id": "2",
+      "name": "product 2",
+      "price": 200,
+      "category": "2"
+    }
+  ],
+  "categories_products": [
+    {
+      "id": "1",
+      "categoryId": "1",
+      "productId": "1"
+    },
+    {
+      "id": "2",
+      "categoryId": "2",
+      "productId": "2"
+    }
+  ],
+  "orders": [
+    {
+      "id": "1",
+      "products": [
+        {
+          "id": "1",
+          "name": "product 1",
+          "price": 100,
+          "category": "1"
+        },
+        {
+          "id": "2",
+          "name": "product 2",
+          "price": 200,
+          "category": "2"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$w24zqutzzdcM87U/cdRFr.fWpQSSxMr4LfTwuvR9l0equ2OHwu98K",
+      "id": 1
+    }
+  ]
+}

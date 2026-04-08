@@ -6,15 +6,15 @@ https://www.youtube.com/live/fSuiCNtRvX0
 -- JSON-SERVER
 https://www.npmjs.com/package/json-server/v/0.17.4
 
-Terminal: npm i json-server@0.17.4
+   npm i json-server@0.17.4
 
 -- JSON-SERVER-AUTH
 https://www.npmjs.com/package/json-server-auth/v/2.1.0
 
-Terminal: npm i json-server-auth@2.1.0
+   npm i json-server-auth@2.1.0
 
 -- DESCARGAR BASE DE DATOS AL PROYECTO:
-
+https://github.com/ProfeAlbeiro/ejemplo-json-server/blob/main/db.json
 
 -- Reemplazar en el 'package.json' la línea 'test...' por:
 
